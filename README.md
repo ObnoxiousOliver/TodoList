@@ -2,7 +2,7 @@
 
 **-- INSTALL TODO LIST --**
 
-1. Download "TodoListInstaller.zip"
+1. Download ["TodoListInstaller.zip"](TodoListInstaller.zip)
 2. Extract zip
 3. Open "TodoListInstaller.exe"
 4. Choose directory / version
